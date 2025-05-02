@@ -32,7 +32,5 @@ In der zweiten Arbeitsphase, werden die einzelnen Risiken und angedachten Maßna
 
 Im Ergebnis liegen priorisierte und beschriebene Risiken des KI-Systems in ihrem Verwendungskontext sowie Maßnahmenvorschläge zur Minimierung des Risikos vor. Die Risiken und Maßnahmen können in dieser Form einen Beitrag zu ihrem allgemeinen Software-Risikomanagement darstellen, sowie die Grundlage für die Wahl und Konfiguration des KI-Cockpits bilden. Bezüglich der tatsächlichen Konfiguration des KI-Cockpits enthalten die kommenden Kapitel sowie die Dokumentation der KI-Cockpit Varianten alle relevanten Informationen.
 
-{% hint style="warning" %}
 ACHTUNG: Der hier vorgestellte Risikoworkshop stellt ausdrücklich keine tiefe Risikoprüfung dar, auch nicht der rein technischen Risiken. Der Fokus liegt hierbei darauf, gerade jene sozialen und ethischen Risiken zu finden, die nur oder besser durch einen partizipativen Ansatz identifiziert werden können. Für einen verordnungsgemäßen Betrieb sind ergänzende Maßnahmen der Risikoanalyse und -dokumentation notwendig, wie in Artikel 9 der EU KI-Verordnung gefordert.
-{% endhint %}
 
